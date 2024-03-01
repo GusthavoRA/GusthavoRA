@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá, me chamo Gusthavo Rodrigues Apolonio, tenho 19 anos de idade e atualmente estou me aventurando nesse tecnológico com muito garra e vontade de aprender. <br><br>🏫 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZS.<br>💻 Conhecimentos em JavaScript, HTML, CSS, C, C#, Python.<br>🆙 Aprimorando conhecimentos em Back-End e Banco de Dados.<br>🤔 Em busca de Estágio para adquirir experiências profissionais.<br><br>
+# 👨‍💻 Gusthavo
+Olá, me chamo Gusthavo Rodrigues Apolonio, tenho 19 anos de idade e atualmente estou me aventurando nesse mundo tecnológico com muita garra e vontade de aprender. Aqui será possível encontrar meus projetos e novos aprendizados que irei compartilhar ao adquiri-los nesta jornada.  <br><br>🏫 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZS (2º Período, 2024).<br>💻 Conhecimentos em JavaScript, HTML, CSS, C, C#, Python.<br>🆙 Aprimorando conhecimentos em Back-End e Banco de Dados.<br>🤔 Em busca de Estágio para adquirir experiências profissionais.<br><br>
 
 
 ## 🌐 Socials:
