@@ -15,5 +15,3 @@ Olá, me chamo Gusthavo Rodrigues Apolonio, tenho 19 anos de idade e atualmente 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GusthavoRA&icon=3&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
